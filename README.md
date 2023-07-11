@@ -22,7 +22,7 @@
 
 # react-rails <a name="react-rails"></a>
 
-
+This is a React app based on the [Rails API](https://github.com/Mov305/rails_react_back)
 
 ## 🛠 Built With <a name="built-with"></a>
 
